@@ -3,3 +3,4 @@ appsettings.Development.json
 ./Properties/launchSettings.json
 bin
 .vscode
+appsettings.Production.json

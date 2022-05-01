@@ -1,5 +1,4 @@
 C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\appsettings.json
 C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.exe
 C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.deps.json
 C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.runtimeconfig.json
@@ -41,3 +40,4 @@ C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\dany-\NoteTakingApp\bin\Debug\net6.0\appsettings.Production.json
