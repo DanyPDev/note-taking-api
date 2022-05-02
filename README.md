@@ -1,2 +1,3 @@
-# note-taking-app
-ASP.NET Core Web Api using .NET 6 with a PostgreSQL Database
+# Website Link : https://danynotetakingapi.azurewebsites.net/index.html
+
+If the website goes down, azure emptied my pockets.
