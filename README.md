@@ -2,6 +2,8 @@
 
 If the website goes down, I ran out of Azure Credits.
 
+Up next: CI/CD pipeline
+
 <h1>Application Architecture:<h1>
   
 ![Design](https://user-images.githubusercontent.com/96401568/166586750-de68b929-3b42-4a68-8d36-803e8e90b9e5.png)
