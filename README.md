@@ -6,4 +6,4 @@ If the website goes down, azure emptied my pockets.
 
 ![image](https://user-images.githubusercontent.com/96401568/166188639-51684d53-4a0a-4344-bd60-51ac9b0b8cb7.png)
 
-![ApiEndPoints](https://user-images.githubusercontent.com/96401568/166580673-47cb51b7-3d14-4b79-8347-31770fecccbb.png)
+![image](https://user-images.githubusercontent.com/96401568/166584226-f86b8298-5de4-479f-bd72-f9c0112ef133.png)
