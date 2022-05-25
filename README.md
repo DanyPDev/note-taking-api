@@ -1,4 +1,4 @@
-# Website Link : https://danynotetakingapi.azurewebsites.net/index.html
+# Website Link  (ran out of Azure credits) : https://danynotetakingapi.azurewebsites.net/index.html
 
 If the website goes down, I ran out of Azure Credits.
 
